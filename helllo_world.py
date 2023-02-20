@@ -1,3 +1,8 @@
+# Hello World example
 # This program prints Hello, world!
 
-print (f'Hello World..!')
+def main():
+  print (f'Hello World..!')
+  
+if __name__ == __main__:
+  main()
